@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zain-Jaafar
-- 👀 I’m interested in Python, Pygame, Discord Bots, Table Tennis, Anime, and Video Games.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Python, Pygame.
+- 👀 I’m interested in Python, Pygame, Table Tennis, Anime, and Video Games.
+- 🌱 I’m currently learning html/css/javascript.
+- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me zainjaafar120@gmail.com
 
 <!---
